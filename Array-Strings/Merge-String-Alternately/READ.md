@@ -29,3 +29,15 @@ mergeAlternately(String word1, String word2):
 ## Space Complexity - O(n)
 
 - We create a character array merge of size word1.length() + word2.length() to store the merged string. This operation takes O(n) space, where n is the total number of characters in both input strings.
+
+## Take Away From the Problem:
+
+### String Manipulation
+
+| Function  | Usage | 
+| -------- | -------- |
+| length()   | Used to get the length of the String   |
+| chatAt()   | Used to check character at Index   |
+
+### Object Instantiation 
+- Array is converted to a string using the String constructor **"new String(merge)"**
