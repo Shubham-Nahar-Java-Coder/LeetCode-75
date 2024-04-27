@@ -1,4 +1,4 @@
-##Algorithm
+## Algorithm
 
 mergeAlternately(String word1, String word2):
    Input: Two strings, word1 and word2
