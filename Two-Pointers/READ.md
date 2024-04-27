@@ -3,7 +3,7 @@
 This repository contains Two Pointers problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. [Move Zeros](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Move-Zeros)
+1. [Move Zeros](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Move-Zeroes)
 2. Is Subsequence
 
 ## Medium
