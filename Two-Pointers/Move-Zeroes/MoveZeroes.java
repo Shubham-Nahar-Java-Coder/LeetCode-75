@@ -1,4 +1,4 @@
-public class MoveZeos{
+public class MoveZeroes{
     public static int[] moveZero(int[] arr){
       
       //Initialize the position where non-zero elements will be inserted  
