@@ -1,3 +1,7 @@
+## Input & Output
+Input: word1 = "abcd"; word2 = "efgh";
+Output: "aebfcgdh"
+
 ## Algorithm
 
 mergeAlternately(String word1, String word2):
