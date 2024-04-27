@@ -22,3 +22,14 @@ Output: "AB"
 - The space complexity is determined by the space used on the call stack due to recursive calls.
 - In the worst case, the depth of the recursive calls will be equal to the length of the shorter string between s1 and s2.
 - Therefore, the space complexity can be expressed as O(min(m, n)), where m and n are the lengths of s1 and s2, respectively.
+
+## Take Away From the Problem:
+
+### String Manipulation
+
+| Function  | Usage | 
+| -------- | -------- |
+| length()   | Used to get the length of the String   |
+| equals()   | Used to check if two Strings are equal   |
+| startsWith()   | Used to check if one String starts with another   |
+| substring()   | Used to extract a substring from a String   |
