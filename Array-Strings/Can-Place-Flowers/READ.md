@@ -27,14 +27,3 @@ Output: true
 
 - The algorithm uses a constant amount of extra space regardless of the input size. We have only a few variables (count, i, index) and do not use any additional data structures that grow with the input size.
 - So, the space complexity of the algorithm is O(1)
-
-## Take Away From the Problem:
-
-### String Manipulation
-
-| Function  | Usage | 
-| -------- | -------- |
-| length()   | Used to get the length of the String   |
-| equals()   | Used to check if two Strings are equal   |
-| startsWith()   | Used to check if one String starts with another   |
-| substring()   | Used to extract a substring from a String   |
