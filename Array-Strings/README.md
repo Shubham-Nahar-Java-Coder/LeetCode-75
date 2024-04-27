@@ -6,7 +6,8 @@ This repository contains array/string problems categorized into two levels: Easy
 1. [Merge Strings Alternately](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Merge-String-Alternately)
 2. [Greatest Common Divisor of Strings](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Greatest-Common-Divisor-Of-String) 
 3. [Kids With the Greatest Number of Candies](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Kids-With-Greatest-Number-Of-Candies) 
-4. Can Place Flowers, Reverse Vowels of a String
+4. [Can Place Flowers](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Can-Place-Flowers)
+5. Reverse Vowels of a String
  
 ## Medium: 
 1. Reverse Words in a String 
