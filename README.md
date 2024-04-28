@@ -30,3 +30,9 @@
 | -------- | -------- | -------- |
 | 1732    | Find the Highest Altitude   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-the-Highest-Altitude)   |
 | 724    | Find Pivot Index   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-Pivot-Index)   |
+
+## HashMap & HashSet
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 2215    | Find the Difference of Two Arrays   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Find-the-difference-of-two-arrays)   |
