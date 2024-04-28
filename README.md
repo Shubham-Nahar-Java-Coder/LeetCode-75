@@ -17,3 +17,9 @@
 | -------- | -------- | -------- |
 | 283    | Move Zeroes   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Move-Zeroes)   |
 | 392    | Is Subsequence   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Is-Subsequence)   |
+
+## Sliding Window
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 643    | Maximum Average Subarray I   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)   |
