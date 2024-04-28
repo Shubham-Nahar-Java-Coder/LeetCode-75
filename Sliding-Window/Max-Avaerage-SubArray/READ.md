@@ -4,7 +4,7 @@ Output: 12.75;
 
 ## Algorithm
 
-1.The function findMaxAverage takes an array of integers nums and an integer k as input adn return max average double as output.
+1. The function findMaxAverage takes an array of integers nums and an integer k as input adn return max average double as output.
 2. Checking if the length of the input array nums is smaller than the window size k. If it is, throw an IllegalArgumentException indicating that the window size is too small to calculate the average.
 3. Initialize a variable sum to 0, which will store the sum of elements within each window.
 4. Iterate through the first k elements of the array nums and calculate their sum, storing it in the variable sum.
