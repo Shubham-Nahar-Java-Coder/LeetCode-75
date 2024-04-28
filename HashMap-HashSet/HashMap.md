@@ -12,7 +12,7 @@ This repository contains HashMap and HashSet problems categorized into two level
 
 ## Notes:
 
-I've prepared some notes on HashMap and HashSet. It's beneficial to review them before diving into the problem statements and solutions. This understanding will facilitate easier issue resolution and clearer comprehension.
+I've prepared some notes on HashMap. It's beneficial to review them before diving into the problem statements and solutions. This understanding will facilitate easier issue resolution and clearer comprehension.
 
 ## HashMap
 - It implements the **Map interface**. It stores **key-value pairs** and allows **fast retrieval** of values based on their associated keys.
