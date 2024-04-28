@@ -3,7 +3,7 @@
 This repository contains HashMap and HashSet problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Find the Difference of Two Arrays
+1. Find the Difference of Two Arrays - Not a HashMap Problem
 2. Unique Number of Occurrences
 
 ## Medium: 
