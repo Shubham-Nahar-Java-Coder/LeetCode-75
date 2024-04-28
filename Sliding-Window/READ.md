@@ -3,7 +3,7 @@
 This repository contains Sliding Window problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Maximum Average Subarray I
+1. [Maximum Average Subarray I](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)
 
 ## Medium
 1. Maximum Number of Vowels in a Substring of Given Length
