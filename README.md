@@ -29,3 +29,4 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 1732    | Find the Highest Altitude   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-the-Highest-Altitude)   |
+| 724    | Find Pivot Index   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-Pivot-Index)   |
