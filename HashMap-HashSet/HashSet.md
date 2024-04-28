@@ -3,7 +3,7 @@
 This repository contains HashMap and HashSet problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Find the Difference of Two Arrays
+1. [Find the Difference of Two Arrays](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Find-the-difference-of-two-arrays)
 2. Unique Number of Occurrences
 
 ## Medium: 
