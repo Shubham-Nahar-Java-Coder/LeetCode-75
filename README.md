@@ -23,3 +23,9 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 643    | Maximum Average Subarray I   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)   |
+
+## Prefix Sum
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 1732    | Find the Highest Altitude   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-the-Highest-Altitude)   |

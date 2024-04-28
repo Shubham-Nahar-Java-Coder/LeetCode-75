@@ -3,7 +3,7 @@
 This repository contains Prefix Sum problems only of Easy level.
 
 ## Easy: 
-1. [Find the Highest Altitude]()
+1. [Find the Highest Altitude](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Prefix-Sum/Find-the-Highest-Altitude)
 2. [Find Pivot Index]()
 
 ## Notes:
