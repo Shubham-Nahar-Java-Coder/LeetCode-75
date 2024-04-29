@@ -36,3 +36,4 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 2215    | Find the Difference of Two Arrays   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Find-the-difference-of-two-arrays)   |
+| 1207    | Unique Number of Occurrences   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Unique-Number-of-Occurrences)   |
