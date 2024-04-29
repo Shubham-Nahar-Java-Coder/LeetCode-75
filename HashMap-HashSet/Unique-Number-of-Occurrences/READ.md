@@ -43,11 +43,15 @@ Output: false;
 
 - Increment the count of an element in a map, handling both existing and non-existing keys, can achieved through **map.put(element, map.getOrDefault(element, 0) + 1);** or, in **expanded form, by checking if the key exists, then either adding 1 or updating its value.**
 
-    - In short and quick way: 
-        - map.put(element, map.getOrDefault(element,0)+1);
+    - Shortly and quickly: 
+
+      ```java
+      map.put(element, map.getOrDefault(element,0)+1);
 
     - Extracted Code for the same is
-        - if(map.containsKey(element) == false){
+      
+        ```java
+        if(map.containsKey(element) == false){
             map.put(element, 1);
         }
         else{
