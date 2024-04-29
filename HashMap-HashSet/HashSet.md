@@ -4,7 +4,7 @@ This repository contains HashMap and HashSet problems categorized into two level
 
 ## Easy: 
 1. [Find the Difference of Two Arrays](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Find-the-difference-of-two-arrays)
-2. Unique Number of Occurrences
+2. [Unique Number of Occurrences](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/HashMap-HashSet/Unique-Number-of-Occurrences) - Problem of Both HashMap and HashSet
 
 ## Medium: 
 1. Determine if Two Strings Are Close 
