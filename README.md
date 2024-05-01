@@ -44,3 +44,8 @@
 | -------- | -------- | -------- |
 | 933    | Number of Recent Calls   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Queue/Number-Of-Recent-Calls)   |
 
+## Linked List
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 206    | Reverse Linked List   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Linked-List/Reverse-Linked-List)   |
