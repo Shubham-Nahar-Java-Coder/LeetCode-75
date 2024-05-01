@@ -3,7 +3,7 @@
 This repository contains Queue problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Number of Recent Calls
+1. [Number of Recent Calls](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Queue/Number-Of-Recent-Calls)
 
 ## Medium: 
 1. Dota2 Senate
