@@ -24,7 +24,7 @@ I've prepared some notes on HashSet. It's beneficial to review them before divin
 ### Declaration and Initialization: 
 HashSet<String> set1 = new HashSet<>();
 
-### Useful Methods/Functions in HashMap:
+### Useful Methods/Functions in HashSet:
 
 | Method | Definition | Usage Example |
 | -------- | -------- | -------- |

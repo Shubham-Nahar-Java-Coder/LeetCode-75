@@ -41,7 +41,7 @@ I've prepared some notes on Queue. It's beneficial to review them before diving 
     ```java
     Queue<Integer> queue = new PriorityQueue<>();
 
-### Useful Methods/Functions in HashMap:
+### Useful Methods/Functions in Queue:
 
 | Method | Definition | Usage Example |
 | -------- | -------- | -------- |
