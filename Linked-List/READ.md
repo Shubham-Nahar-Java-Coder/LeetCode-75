@@ -3,7 +3,7 @@
 This repository contains Linked List problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Reverse Linked List
+1. [Reverse Linked List](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Linked-List/Reverse-Linked-List)
 
 ## Medium: 
 1. Delete the Middle Node of a Linked List
