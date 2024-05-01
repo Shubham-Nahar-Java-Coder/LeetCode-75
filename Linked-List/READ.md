@@ -25,16 +25,6 @@ I've prepared some notes on Linked List. It's beneficial to review them before d
     3. Circular Linked List 
         - In a circular linked list, the last node points back to the first node instead of null, forming a circular structure.  
 
-### Implementations Available:
-
-1. LinkedList
-    - A linear data structure where elements are stored as nodes with references to the next and previous nodes, providing efficient **insertion and removal operations at both ends**.
-2. ArrayQueue
-    - A resizable array-based double-ended queue that allows efficient insertion and removal operations at both ends, providing better performance than LinkedList in most cases.
-3. PriorityQueue
-    - A queue data structure where elements are ordered based on their natural ordering or a specified comparator, with the highest-priority element accessible first.
-
-
 ### Useful Methods/Functions in Linked List:
 
 | Method | Definition | Usage Example |
