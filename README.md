@@ -49,3 +49,10 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 206    | Reverse Linked List   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Linked-List/Reverse-Linked-List)   |
+
+## Binary Tree - DFS
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 104    | Maximum Depth of Binary Tree   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Tree-DFS/Maximum-Depth-of-Binary-Tree)   |
+
