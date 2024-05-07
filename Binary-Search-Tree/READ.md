@@ -3,7 +3,7 @@
 This repository contains Binary Search Tree problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Search in a Binary Search Tree
+1. [Search in a Binary Search Tree](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Search-Tree/Search-In-a-Binary-Search-Tree)
 
 ## Medium: 
 1. Delete Node in a BST
