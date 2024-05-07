@@ -3,7 +3,7 @@
 This repository contains Binary Search problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Guess Number Higher or Lower
+1. [Guess Number Higher or Lower](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Search/Guess-Number-Higher-or-Lower)
 
 ## Medium: 
 1. Successful Pairs of Spells and Potions
