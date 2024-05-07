@@ -55,4 +55,4 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 104    | Maximum Depth of Binary Tree   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Tree-DFS/Maximum-Depth-of-Binary-Tree)   |
-
+| 872    | Leaf Similar Tree   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Tree-DFS/Leaf-Similar-Trees)   |
