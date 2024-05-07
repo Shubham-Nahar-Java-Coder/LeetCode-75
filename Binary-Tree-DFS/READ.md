@@ -4,7 +4,7 @@ This repository contains Binary Tree DFS problems categorized into two levels: E
 
 ## Easy: 
 1. [Maximum Depth of Binary Tree](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Tree-DFS/Maximum-Depth-of-Binary-Tree)
-2. Leaf-Similar Trees
+2. [Leaf-Similar Trees](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Tree-DFS/Leaf-Similar-Trees)
  
 ## Medium: 
 1. Count Good Nodes in Binary Tree
