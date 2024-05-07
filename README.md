@@ -62,3 +62,9 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 700    | Search in a Binary Search Tree   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Search-Tree/Search-In-a-Binary-Search-Tree)   |
+
+## Binary Search 
+
+| LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
+| -------- | -------- | -------- |
+| 374    | Guess Number Higher or Lower   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Binary-Search/Guess-Number-Higher-or-Lower)   |
