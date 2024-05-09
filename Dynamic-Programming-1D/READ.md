@@ -4,7 +4,7 @@ This repository contains Dynamic Programming 1D problems categorized into two le
 
 ## Easy: 
 1. [N-th Tribonacci Number](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/N-th-Tribonacci-Number)
-2. Min Cost Climbing Stairs
+2. [Min Cost Climbing Stairs](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/Min-Cost-Climbing-Stairs)
 
 ## Medium: 
 1. House Robber
