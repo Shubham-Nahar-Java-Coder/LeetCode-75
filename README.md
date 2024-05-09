@@ -74,6 +74,4 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution |
 | -------- | -------- | -------- |
 | 1137    | N-th Tribonacci Number   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/N-th-Tribonacci-Number)   |
-| 746    | Min Cost Climbing Stairs   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/N-th-Tribonacci-Number)   |
-
-
+| 746    | Min Cost Climbing Stairs   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/Min-Cost-Climbing-Stairs)   |
