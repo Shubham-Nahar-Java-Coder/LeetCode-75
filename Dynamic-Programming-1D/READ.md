@@ -3,7 +3,7 @@
 This repository contains Dynamic Programming 1D problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. N-th Tribonacci Number
+1. [N-th Tribonacci Number](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Dynamic-Programming-1D/N-th-Tribonacci-Number)
 2. Min Cost Climbing Stairs
 
 ## Medium: 
