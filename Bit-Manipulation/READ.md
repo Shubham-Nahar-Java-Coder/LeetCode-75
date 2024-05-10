@@ -3,7 +3,7 @@
 This repository contains Bit Manipulation problems categorized into two levels: Easy and Medium.
 
 ## Easy: 
-1. Counting Bits
+1. [Counting Bits](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Bit-Manipulation/Counting-Bits)
 2. Single Number
  
 ## Medium: 
