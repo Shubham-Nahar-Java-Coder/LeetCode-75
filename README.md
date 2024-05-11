@@ -9,7 +9,7 @@
 | 1431   | Kids With the Greatest Number of Candies   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Kids-With-Greatest-Number-Of-Candies)   |
 | 605   | Can Place Flowers  | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Can-Place-Flowers)   |
 | 345   | Kids With the Greatest Number of Candies   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Vowels-Of-String)   |
-
+| 151   | Reverse Words in a String   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Words-In-A-String)   |
 
 ## Two Pointers
 
