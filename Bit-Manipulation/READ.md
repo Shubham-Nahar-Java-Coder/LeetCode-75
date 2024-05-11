@@ -4,7 +4,7 @@ This repository contains Bit Manipulation problems categorized into two levels: 
 
 ## Easy: 
 1. [Counting Bits](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Bit-Manipulation/Counting-Bits)
-2. Single Number
+2. [Single Number](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Bit-Manipulation/Single%20Number)
  
 ## Medium: 
 1. Minimum Flips to Make a OR b Equal to c
