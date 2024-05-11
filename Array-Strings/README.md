@@ -10,7 +10,7 @@ This repository contains array/string problems categorized into two levels: Easy
 5. [Reverse Vowels of a String](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Vowels-Of-String)
  
 ## Medium: 
-1. Reverse Words in a String 
+1. [Reverse Words in a String](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Words-In-A-String) 
 2. Product of Array Except Self 
 3. Increasing Triplet Subsequence 
 4. String Compression
