@@ -11,7 +11,7 @@
 | 345   | Kids With the Greatest Number of Candies   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Vowels-Of-String)   | Easy   |
 | 151   | Reverse Words in a String   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Reverse-Words-In-A-String)   | Medium   |
 | 238   | Product of Array Except Self   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Product-of-Array-Except-Self)   | Medium   |
-| 334   | Increasing Triplet Subsequence   | [link]()   | Medium   |
+| 334   | Increasing Triplet Subsequence   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Array-Strings/Increasing-Triplet-Subsequence)   | Medium   |
 | 443   | String Compression   | [link]()   | Medium   |
 
 ## Two Pointers
