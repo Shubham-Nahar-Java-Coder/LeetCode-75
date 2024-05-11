@@ -43,5 +43,3 @@ I've prepared some notes on Bit manipulation. It's beneficial to review them bef
     int rotatedRight = Integer.rotateRight(5, 1); 
     // Returns 1073741824, as rotating 5 by 1 bit to the right results in 0010
     ```
-
-
