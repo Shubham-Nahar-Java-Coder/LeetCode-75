@@ -8,7 +8,7 @@ class StringCompression {
         // Append the first character to the StringBuilder
         sb.append(chars[0]);
 
-        // Iterate through the array starting from index 1
+        // Iterate through the array starting from index 1 
         while (i < chars.length) {
             // If the current character is the same as the previous one
             if (chars[i] == chars[i - 1]) {
