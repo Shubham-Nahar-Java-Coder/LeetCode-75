@@ -29,7 +29,7 @@
 | -------- | -------- | -------- | -------- |
 | 643    | Maximum Average Subarray I   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)   | Easy   |
 | 1456    | Maximum Number of Vowels in a Substring of Given Length   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Maximum-Number-Of-Vowels-In-A-Substring-Of-Given-Length)   | Medium   |
-| 1004    | Max Consecutive Ones III   | [link]()   | Medium   |
+| 1004    | Max Consecutive Ones III   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Consecutive-Ones-III)   | Medium   |
 | 1493    | Longest Subarray of 1's After Deleting One Element   | [link]()   | Medium   |
 
 ## Prefix Sum
