@@ -6,7 +6,7 @@ This repository contains Sliding Window problems categorized into two levels: Ea
 1. [Maximum Average Subarray I](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)
 
 ## Medium
-1. Maximum Number of Vowels in a Substring of Given Length
+1. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Maximum-Number-Of-Vowels-In-A-Substring-Of-Given-Length)
 2. Max Consecutive Ones III
 3. Longest Subarray of 1's After Deleting One Element
 
