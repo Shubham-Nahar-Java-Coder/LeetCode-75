@@ -7,7 +7,7 @@ This repository contains Two Pointers problems categorized into two levels: Easy
 2. [Is Subsequence](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Is-Subsequence)
 
 ## Medium
-1. Container With Most Water
+1. [Container With Most Water](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Container-with-most-water)
 2. Max Number of K-Sum Pairs
 
 ## Notes:
