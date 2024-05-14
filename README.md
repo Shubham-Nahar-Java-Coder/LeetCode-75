@@ -26,6 +26,9 @@
 | LeetCode Problem Number | LeetCode Problem Name | Link to Problem Solution | Level   |
 | -------- | -------- | -------- | -------- |
 | 643    | Maximum Average Subarray I   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Max-Avaerage-SubArray)   | Easy   |
+| 643    | Maximum Number of Vowels in a Substring of Given Length   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Sliding-Window/Maximum-Number-Of-Vowels-In-A-Substring-Of-Given-Length)   | Medium   |
+| 643    | Max Consecutive Ones III   | [link]()   | Medium   |
+| 643    | Longest Subarray of 1's After Deleting One Element   | [link]()   | Medium   |
 
 ## Prefix Sum
 
