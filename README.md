@@ -21,7 +21,7 @@
 | 283    | Move Zeroes   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Move-Zeroes)   | Easy   |
 | 392    | Is Subsequence   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Is-Subsequence)   | Easy   |
 | 11    | Container With Most WaterIs Subsequence   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Container-with-most-water)   | Medium   |
-
+| 1679    | Max Number of K-Sum Pairs   | [link](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Max-Number-of-K-Sum-Pairs)   | Medium   |
 
 ## Sliding Window
 
