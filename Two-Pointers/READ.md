@@ -8,7 +8,7 @@ This repository contains Two Pointers problems categorized into two levels: Easy
 
 ## Medium
 1. [Container With Most Water](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Container-with-most-water)
-2. Max Number of K-Sum Pairs
+2. [Max Number of K-Sum Pairs](https://github.com/Shubham-Nahar-Java-Coder/Leetcode-75/tree/master/Two-Pointers/Max-Number-of-K-Sum-Pairs)
 
 ## Notes:
 
