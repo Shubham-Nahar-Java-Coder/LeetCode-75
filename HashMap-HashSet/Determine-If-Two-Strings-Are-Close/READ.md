@@ -1,28 +1,18 @@
-## Problem Statement
-
-- You are given two arrays of integers, nums1 and nums2. Your task is to write a function findDifference that finds the difference between the elements of these arrays.
-
 ## Input & Output
-Input:  nums1 = \[1,2,3\], nums2 = \[2,4,6\]
-Output: \[ \[ 1,3 \], \[ 4,6 \] \]
+Input:  s1 = "cabbba"; s2 = "abbccc"
+Output: true
 
 ## Algorithm
 
-1. Define a method called findDifference that takves two integer arrays, nums1 and nums2, as input and returns a list of lists of integers.
-2. Create an empty HashSet called set1.
-3. Iterate through each element (values) in nums1:
-    - Add each element to set1.
-4. Create an empty HashSet called set2.
-5. Iterate through each element (values) in nums2:
-    - Add each element to set2.
-6. Create an empty HashSet called differenceSet1.
-7. Iterate through each element (values) in nums1:
-    - If values is not present in set2, add values to differenceSet1.
-8. Create an empty HashSet called differenceSet2.
-9. Iterate through each element (values) in nums2:
-    - If values is not present in set1, add values to differenceSet2.
-10. Convert differenceSet1 and differenceSet2 to ArrayLists.
-11. Return a list containing differenceSet1 converted to an ArrayList and differenceSet2 converted to an ArrayList.
+1. Begin the function closeStrings which takes two strings, word1 and word2, as input.
+2. Check if the lengths of word1 and word2 are not equal. If they are not equal, return false.
+3. Create two arrays, word1Frequency and word2Frequency, each of length 26 (representing the 26 lowercase English letters).
+4. Iterate through each character in word1 and word2 simultaneously.
+    - For each character, increment the corresponding index in word1Frequency and word2Frequency.
+5. Iterate through each index from 0 to 25 (representing the 26 lowercase English letters).
+    - If the frequency of a letter is 0 in one word and not 0 in the other word, return false.
+6. Sort both word1Frequency and word2Frequency arrays.
+7. Check if the sorted arrays are equal. If they are equal, return true; otherwise, return false.
 
 ## Time Complexity - O(n)
 
@@ -36,7 +26,7 @@ Output: \[ \[ 1,3 \], \[ 4,6 \] \]
     - Same steps on differenceSet2
 So, building differenceSet1, differenceSet2 has a time complexity of O(n).
     
-## Space Complexity - O(n)
+## Space Complexity - O(1)
 
 - The space used is primarily for the HashSet objects (set1, set2, differenceSet1, and differenceSet2), which can each potentially store up to n elements.
 - So, the space complexity is O(n).
